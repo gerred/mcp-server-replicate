@@ -10,6 +10,8 @@
 
 A FastMCP server implementation for the Replicate API, providing resource-based access to AI model inference with a focus on image generation.
 
+<a href="https://glama.ai/mcp/servers/r830bzsk7r"><img width="380" height="200" src="https://glama.ai/mcp/servers/r830bzsk7r/badge" alt="Server Replicate MCP server" /></a>
+
 ## Features
 
 - 🖼️ Resource-based image generation and management
